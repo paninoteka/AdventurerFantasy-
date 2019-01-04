@@ -1046,7 +1046,7 @@ Sprite_Enemy.prototype.startAppear = function() {
 };
 
 Sprite_Enemy.prototype.startDisappear = function() {
-    this._effectDuration = 14;
+    this._effectDuration = 7;
     this._appeared = false;
 };
 
@@ -1059,7 +1059,7 @@ Sprite_Enemy.prototype.startBlink = function() {
 };
 
 Sprite_Enemy.prototype.startCollapse = function() {
-    this._effectDuration = 32;
+    this._effectDuration = 10;
     this._appeared = false;
 };
 
