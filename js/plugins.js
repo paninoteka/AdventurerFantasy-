@@ -38,5 +38,6 @@ var $plugins =
 {"name":"Torigoya_ReplaceDeadMemberPlus","status":true,"description":"戦闘不能アクター自動入れ替えさんPlus","parameters":{"■ 基本設定":"","Save sort order":"OFF","Disable switch ID":"0","■ こだわり設定":"","Can replace leader":"ON","Wait: Dead":"5","Wait: Replace":"5"}},
 {"name":"NendBanner","status":true,"description":"","parameters":{}},
 {"name":"NendInterstitial","status":true,"description":"","parameters":{}},
-{"name":"HyperLink","status":true,"description":"ゲーム中に外部ページへのリンクを貼ります。","parameters":{"description":"広告サイト"}}
+{"name":"HyperLink","status":true,"description":"ゲーム中に外部ページへのリンクを貼ります。","parameters":{"description":"広告サイト"}},
+{"name":"PromptlyPopup","status":true,"description":"複数攻撃時のポップアップを一括表示します","parameters":{"text":"0"}}
 ];

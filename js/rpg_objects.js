@@ -3821,7 +3821,7 @@ Game_Actor.prototype.bareHandsElementId = function() {
 
 Game_Actor.prototype.paramMax = function(paramId) {
     if (paramId === 0) {
-        return 9999;    // MHP
+        return 99999;    // MHP
     }
     return Game_Battler.prototype.paramMax.call(this, paramId);
 };
@@ -4931,7 +4931,7 @@ Game_Party.prototype.numItems = function(item) {
 };
 
 Game_Party.prototype.maxItems = function(item) {
-    return 99;
+    return 999;
 };
 
 Game_Party.prototype.hasMaxItems = function(item) {
