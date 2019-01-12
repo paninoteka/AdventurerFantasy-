@@ -39,5 +39,6 @@ var $plugins =
 {"name":"NendBanner","status":true,"description":"","parameters":{}},
 {"name":"NendInterstitial","status":true,"description":"","parameters":{}},
 {"name":"HyperLink","status":true,"description":"ゲーム中に外部ページへのリンクを貼ります。","parameters":{"description":"広告サイト"}},
-{"name":"PromptlyPopup","status":true,"description":"複数攻撃時のポップアップを一括表示します","parameters":{"text":"0"}}
+{"name":"PromptlyPopup","status":true,"description":"複数攻撃時のポップアップを一括表示します","parameters":{"text":"0"}},
+{"name":"OnlineAvatar","status":true,"description":"Firebaseを使ってプレイヤーをオンライン同期します。","parameters":{"apiKey":"AIzaSyB-pLP6FeGAoq4PN5D1QglpqZpKA1e5Y1M","authDomain":"adventurerfantasy.firebaseapp.com","databaseURL":"https://adventurerfantasy.firebaseio.com","avatarEvent":"0","syncSwitchStart":"0","syncSwitchEnd":"0","syncVariableStart":"741","syncVariableEnd":"760"}}
 ];
