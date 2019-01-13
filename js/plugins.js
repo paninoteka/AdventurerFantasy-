@@ -34,11 +34,10 @@ var $plugins =
 {"name":"WindowResize","status":true,"description":"ゲーム起動時のウィンドウサイズを変更します。","parameters":{"width":"624","height":"916"}},
 {"name":"MOG_TitleSplashScreen","status":true,"description":"(v1.0) Adiciona logos antes da tela de título.","parameters":{"Splash Frames":"1","Slash Duration":"60","Splash Fade Duration":"2","Full Screen Mode":"false"}},
 {"name":"Community_Basic","status":true,"description":"Plugin used to set basic parameters.","parameters":{"cacheLimit":"10","screenWidth":"624","screenHeight":"916","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"OnlineAvatar","status":true,"description":"Firebaseを使ってプレイヤーをオンライン同期します。","parameters":{"apiKey":"AIzaSyB-pLP6FeGAoq4PN5D1QglpqZpKA1e5Y1M","authDomain":"adventurerfantasy.firebaseapp.com","databaseURL":"https://adventurerfantasy.firebaseio.com","avatarEvent":"0","syncSwitchStart":"0","syncSwitchEnd":"0","syncVariableStart":"641","syncVariableEnd":"700"}},
+{"name":"OnlineAvatar","status":true,"description":"Firebaseを使ってプレイヤーをオンライン同期します。","parameters":{"apiKey":"AIzaSyB-pLP6FeGAoq4PN5D1QglpqZpKA1e5Y1M","authDomain":"adventurerfantasy.firebaseapp.com","databaseURL":"https://adventurerfantasy.firebaseio.com","avatarEvent":"0","syncSwitchStart":"0","syncSwitchEnd":"0","syncVariableStart":"641","syncVariableEnd":"720"}},
 {"name":"Torigoya_ReplaceDeadMemberPlus","status":true,"description":"戦闘不能アクター自動入れ替えさんPlus","parameters":{"■ 基本設定":"","Save sort order":"OFF","Disable switch ID":"0","■ こだわり設定":"","Can replace leader":"ON","Wait: Dead":"5","Wait: Replace":"5"}},
 {"name":"NendBanner","status":true,"description":"","parameters":{}},
 {"name":"NendInterstitial","status":true,"description":"","parameters":{}},
 {"name":"HyperLink","status":true,"description":"ゲーム中に外部ページへのリンクを貼ります。","parameters":{"description":"広告サイト"}},
-{"name":"PromptlyPopup","status":true,"description":"複数攻撃時のポップアップを一括表示します","parameters":{"text":"0"}},
-{"name":"OnlineAvatar","status":true,"description":"Firebaseを使ってプレイヤーをオンライン同期します。","parameters":{"apiKey":"AIzaSyB-pLP6FeGAoq4PN5D1QglpqZpKA1e5Y1M","authDomain":"adventurerfantasy.firebaseapp.com","databaseURL":"https://adventurerfantasy.firebaseio.com","avatarEvent":"0","syncSwitchStart":"0","syncSwitchEnd":"0","syncVariableStart":"741","syncVariableEnd":"760"}}
+{"name":"PromptlyPopup","status":true,"description":"複数攻撃時のポップアップを一括表示します","parameters":{"text":"0"}}
 ];
